@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="create user req fields.html">create user req fields 1</a></td></tr>
+<tr><td><a href="create user successfully.html">create user successfully 2</a></td></tr>
+<tr><td><a href="logout.html">Logout 3</a></td></tr>
+<tr><td><a href="log in invalid email.html">log in invalid email 4</a></td></tr>
+<tr><td><a href="log in invalid password.html">log in invalid password 5</a></td></tr>
+<tr><td><a href="log in successfully.html">log in 6</a></td></tr>
+<tr><td><a href="password reset success.html">password reset 7</a></td></tr>
+<tr><td><a href="password reset not matching new password.html">password reset not matching new password 8</a></td></tr>
+<tr><td><a href="password reset invalid current password.html">password reset invalid current password 9</a></td></tr>
+<tr><td><a href="add one item.html">add one item 10</a></td></tr>
+<tr><td><a href="remove one item.html">remove one item 11</a></td></tr>
+<tr><td><a href="add one item.html">add one item pre</a></td></tr>
+<tr><td><a href="add another item.html">add another item 12</a></td></tr>
+<tr><td><a href="remove one of the two items.html">remove one of the two items 13</a></td></tr>
+<tr><td><a href="add one item.html">add one item pre</a></td></tr>
+<tr><td><a href="add two items of the same type.html">add two items of the same type 14</a></td></tr>
+<tr><td><a href="removing two items of the same type.html">Removing two items of the same type 15</a></td></tr>
+<tr><td><a href="add two items of the same type.html">add two items of the same type pre</a></td></tr>
+<tr><td><a href="removing all three items of the same type.html">Removing all three items of the same type 16</a></td></tr>
+<tr><td><a href="add another item.html">add another item pre</a></td></tr>
+<tr><td><a href="add two items of the same type.html">add two items of the same type pre</a></td></tr>
+<tr><td><a href="Removing all items from cart.html">Removing all items from cart 17</a></td></tr>
+<tr><td><a href="continue shopping.html">continue shopping 18</a></td></tr>
+<tr><td><a href="checkout unsuccess.html">checkout unsuccess 19</a></td></tr>
+<tr><td><a href="add one item.html">add one item pre</a></td></tr>
+<tr><td><a href="checkout.html">checkout success 20</a></td></tr>
+<tr><td><a href="finalizing order.html">finalizing order 21</a></td></tr>
+<tr><td><a href="add one item.html">add one item pre</a></td></tr>
+<tr><td><a href="finalizing order empty billing information.html">finalizing order empty billing information 22</a></td></tr>
+<tr><td><a href="finalizing order shipping option not picked.html">finalizing order shipping option not picked 23</a></td></tr>
+<tr><td><a href="logout.html">logout pre</a></td></tr>
+</tbody></table>
+</body>
+</html>
